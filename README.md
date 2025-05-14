@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RithwikSaiP
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning html and css
 - 📫 How to reach me gmail (rithwiksaipitchuka@gmail.com)
 <!---
 RithwikSaiP/RithwikSaiP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
